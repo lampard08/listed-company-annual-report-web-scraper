@@ -1,4 +1,4 @@
-# A web scraper fot scraping listed company annual reports on cninfo.com
+# A web scraper for scraping listed company annual reports on cninfo.com
 # 爬取巨潮资讯网上市公司年报
 
 ## Introduction
