@@ -1,5 +1,4 @@
 # A web scraper for scraping listed company annual reports on cninfo.com
-# 爬取巨潮资讯网上市公司年报
 
 # To be added:
 1. Re-organized and revised codes
