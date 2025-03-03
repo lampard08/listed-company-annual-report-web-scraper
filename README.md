@@ -10,4 +10,5 @@ This is a Selenium based web scraper to scrape Chinesse listed companies' annual
 
 The result can be used to construct a company-level digital transformation index, and further be used for research purpose.
 
+## Workflow
 ![Flowchart](./Images/workflow.png)
